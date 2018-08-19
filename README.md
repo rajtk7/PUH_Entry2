@@ -26,7 +26,7 @@ Really without writing any lengthy code if you are getting the expected things d
 
 We have learned the ease of implementing custom code into Custom Activities for UiPath. Thanks to UiPath who has given us this oppurtunity to play with Activities. There is no limitation and restriction. If we have skills then we can do wonders.
 
-## What's next for Pivot Table & Filter Range -  Activity
+## What's next for Excel, PDF & Notepad  -  Custom Activity
 
 1. To make the UiPath Tool more popular.
 2. Developer job so easy, user- friendly.
