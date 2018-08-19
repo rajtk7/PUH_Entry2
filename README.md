@@ -9,6 +9,7 @@ This is a first step to cognitive capabilities within a robot by implementing a 
 ## What it does
 
 The goal of this custom activity is to create a Pivot Table (Summarising the data) and Filter the data without writing any lengthy coding.Find & Replace, Update Status and much more functions.
+
 **Input**
 
 In all the fields watermark is given by looking at that you will come to know that what exactly you have to type in it.
